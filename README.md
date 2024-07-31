@@ -20,14 +20,8 @@ This project is a web application designed to store and manage monthly challenge
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 11 or later
+- Java Development Kit (JDK) 17 or later
 - Node.js and npm
 - MySQL database
 - Maven
 
-### Backend Setup
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/monthly-challenge-project.git
-   cd monthly-challenge-project/backend
